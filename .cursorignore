@@ -1,0 +1,23 @@
+# приватные ключи и конфиги
+.env
+*.pem
+private-keys.js
+**/secrets/**
+**/keys/**
+**/wallets/**
+
+# системные папки
+node_modules/
+__pycache__/
+dist/
+build/
+logs/
+
+# внепроектные пути (на всякий случай)
+C:/
+D:/
+Downloads/
+Desktop/
+Documents/
+Pictures/
+Videos/
