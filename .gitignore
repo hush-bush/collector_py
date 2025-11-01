@@ -11,6 +11,10 @@ ENV/
 pip-log.txt
 pip-delete-this-directory.txt
 
+# cursor files
+.cursorignore
+./cursor/index.mdc
+
 # Зависимости
 node_modules/
 package-lock.json
